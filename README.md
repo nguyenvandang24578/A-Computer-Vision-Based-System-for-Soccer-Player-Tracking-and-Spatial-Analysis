@@ -113,4 +113,4 @@ Hệ thống đặc biệt phù hợp cho:
 ## 📧 Liên hệ
 - **Leader**: Nguyễn Văn Đăng  
 - Email: *nguyendangdh1@gmail.com*  
-- GitHub: **[thêm link repo]**
+- GitHub: **https://github.com/nguyenvandang24578**

@@ -100,6 +100,24 @@ Hệ thống đặc biệt phù hợp cho:
 | **FullTeamAware** | **0.7850** | **28** | **0.0923** | **+14.6%** |
 
 ---
+## 📸 Kết quả đầu ra
+
+### 3️⃣ Bản đồ nhiệt (Heatmap) hoạt động của một số cầu thủ
+<p align="center">
+  <img src=".images/player_7_heatmap.png" alt="Heatmap Team A" width="400"/>
+  <img src=".images/player_10_heatmap.png" alt="Heatmap Team B" width="400"/>
+</p>
+
+---
+
+### 4️⃣ Đường di chuyển cầu thủ của một số cầu thủ
+<p align="center">
+  <img src="./images/player_7_trail.png" alt="Heatmap Team A" width="400"/>
+  <img src="./images/player_10_trail.png" alt="Heatmap Team B" width="400"/>
+</p>
+
+
+---
 
 ## 🚀 Hướng phát triển
 - Cải thiện nhận diện trong điều kiện ánh sáng kém.

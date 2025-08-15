@@ -104,16 +104,16 @@ Hệ thống đặc biệt phù hợp cho:
 
 ### 3️⃣ Bản đồ nhiệt (Heatmap) hoạt động của một số cầu thủ
 <p align="center">
-  <img src=".images/player_7_heatmap.png" alt="Heatmap Team A" width="400"/>
-  <img src=".images/player_10_heatmap.png" alt="Heatmap Team B" width="400"/>
+  <img src="./images/player_7_heatmap.png" alt="Heatmap player 1" width="400"/>
+  <img src="./images/player_10_heatmap.png" alt="Heatmap player 2" width="400"/>
 </p>
 
 ---
 
 ### 4️⃣ Đường di chuyển cầu thủ của một số cầu thủ
 <p align="center">
-  <img src="./images/player_7_trail.png" alt="Heatmap Team A" width="400"/>
-  <img src="./images/player_10_trail.png" alt="Heatmap Team B" width="400"/>
+  <img src="./images/player_7_trail.png" alt="Trail player 2" width="400"/>
+  <img src="./images/player_10_trail.png" alt="Trail player 2" width="400"/>
 </p>
 
 

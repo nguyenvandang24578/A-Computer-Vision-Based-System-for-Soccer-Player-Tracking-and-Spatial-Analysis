@@ -116,6 +116,7 @@ Hệ thống đặc biệt phù hợp cho:
   <img src="./images/player_10_trail.png" alt="Trail player 2" width="400"/>
 </p>
 
+[![Watch the video](https://img.youtube.com/vi/2Vmj2tkDjA/0.jpg)](https://youtu.be/-2Vmj2tkDjA)
 
 ---
 
